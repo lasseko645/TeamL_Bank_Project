@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d586170f-3dcd-4d03-96ba-41e4a59aff81" />
+          <option name="name" value="TeamL_DB" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/Database/TeamL_DB.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
