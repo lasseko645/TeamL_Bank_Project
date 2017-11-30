@@ -2,8 +2,8 @@ public class Opsparingskonto extends Konti {
 
     /**
      * <h1>Opsparingskonto klassen</h1>
-     * Kontoen skal kunne modtage og sende penge, men kun til egne konti.
-     * <b>Note:</b> Kontoen maa IKKE gaa i minus.
+     * This class allows a savings account, to deposit and withdraw money, only from owned accounts.
+     * <b>Note:</b> The account is NOT ALLOWED to go below limit.
      *
      * @author Michael "SaneStreet" Hansen
      * @version 1.0
