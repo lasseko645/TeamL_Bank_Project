@@ -1,8 +1,15 @@
 public class Opsparingskonto extends Konti {
 
-    //Klassen Opsparingskonto:
-    //Håndterer data om Opsparingskonti. Skal kunne ting indenfor de parametre vi har fået.
-    //Modtage penge, IKKE være i minus, etc..
+    /**
+     * <h1>Opsparingskonto klassen</h1>
+     * Kontoen skal kunne modtage og sende penge, men kun til egne konti.
+     * <b>Note:</b> Kontoen maa IKKE gaa i minus.
+     *
+     * @author Michael "SaneStreet" Hansen
+     * @version 1.0
+     * @since 30-11-2017
+     */
+
 
     private double deposit = 0;
     private double withDraw = 0;
