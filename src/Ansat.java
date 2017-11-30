@@ -1,4 +1,5 @@
-/** This class is a subclass for "Person"
+/**
+ * This class is a subclass for "Person"
  * The "Ansat" class inherits variables from the "Person" class.
  * This class will be able to create new accounts,
  * be able to set interests for accounts
